@@ -1,0 +1,7 @@
+boto3
+botocore
+boto3-stubs
+awscli
+
+# Optional for running inside Jupyter kernels
+ipykernel
